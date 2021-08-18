@@ -148,7 +148,8 @@
       <change afterPath="$PROJECT_DIR$/../../../Introdução ao framework Spring Boot/springbootconfig/springbootconfig/src/main/java/com/digitalinnovationone/springbootconfig/config/DBConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Introdução ao framework Spring Boot/springbootconfig/springbootconfig/src/main/resources/application-dev.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Introdução ao framework Spring Boot/springbootconfig/springbootconfig/src/main/resources/application-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system.properties" beforeDir="false" afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
