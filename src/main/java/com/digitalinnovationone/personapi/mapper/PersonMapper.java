@@ -2,7 +2,6 @@ package com.digitalinnovationone.personapi.mapper;
 
 import com.digitalinnovationone.personapi.dto.request.PersonDTO;
 import com.digitalinnovationone.personapi.entity.Person;
-import com.digitalinnovationone.personapi.repository.PersonRepository;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
